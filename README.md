@@ -21,7 +21,7 @@ K-Nearest Neighbors (KNN)
 Dataset
 The project assumes a dataset named sample_dataset.csv with the following structure:
 
-Input Features: Columns representing independent variables (e.g., V1, V2, etc.).
+Input Features: Columns representing independent variables.
 Target Variable: A column named Class, which is imbalanced.
 You can replace sample_dataset.csv with your own dataset, ensuring it has the same structure.
 
